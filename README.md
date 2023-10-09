@@ -12,7 +12,7 @@ _**작은 디테일에 집착하는 개발자**_, 김한슬입니다.
   <a href="mailto:1soelkim@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>&nbsp;
   </a>
-  <a href="https://www.notion.so/1three/541d73119f79431ca50062bb3243e4cd">
+  <a href="https://1three.notion.site/541d73119f79431ca50062bb3243e4cd">
     <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>&nbsp;
   </a>
 </div>
