@@ -6,13 +6,13 @@ _**작은 디테일에 집착하는 개발자**_, 김한슬입니다.
 
 <br>
 
-## 🏃🏻‍♀️ _Award_
+## 🏆 _Award_
 
 ```
-👑 최우수상 (국무총리상)
+🏅 최우수상 (국무총리상)
 2023 제11회 범정부 공공데이터 활용 창업경진대회
 
-🏆 대상 (보건복지부장관상)
+🏅 대상 (보건복지부장관상)
 2023 사회보장정보와 공공ㆍ민간 빅데이터를 활용한 국민행복서비스 발굴ㆍ창업경진대회
 ```
 
@@ -21,12 +21,8 @@ _**작은 디테일에 집착하는 개발자**_, 김한슬입니다.
 ## 📞 _Contact_
 
 <div>
-  <a href="mailto:1soelkim@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>&nbsp;
-  </a>
-  <a href="https://1three.notion.site/541d73119f79431ca50062bb3243e4cd">
-    <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>&nbsp;
-  </a>
+  <a href="mailto:1soelkim@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://1three.notion.site/541d73119f79431ca50062bb3243e4cd"><img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 </div>
 
 <br>
