@@ -8,6 +8,8 @@ _**작은 디테일에 집착하는 개발자**_, 김한슬입니다.
 
 ## 🥚 _Skills_
 
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
@@ -32,9 +34,9 @@ _**작은 디테일에 집착하는 개발자**_, 김한슬입니다.
 ## 🏆 _Award_
 
 ```
-🏅 최우수상 (국무총리상)
+🏅 국무총리상 (최우수상)
 2023 제11회 범정부 공공데이터 활용 창업경진대회
 
-🏅 대상 (보건복지부장관상)
+🏅 보건복지부장관상 (대상)
 2023 사회보장정보와 공공ㆍ민간 빅데이터를 활용한 국민행복서비스 발굴ㆍ창업경진대회
 ```
