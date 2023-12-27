@@ -2,7 +2,7 @@
 
 _**작은 디테일에 집착하는 개발자**_, 김한슬입니다.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=1three&count_private=true&show_icons=true&theme=default)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsoel)](https://solved.ac/hsoel)
 
 <br>
 
